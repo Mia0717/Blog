@@ -1,2 +1,2 @@
 # Blog
-Blog in issue
+Blog in Issues
